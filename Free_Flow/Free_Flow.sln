@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Free_Flow", "Free_Flow\Free_Flow.pyproj", "{BE25D004-7976-44FF-833F-957DD3FB9167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE25D004-7976-44FF-833F-957DD3FB9167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE25D004-7976-44FF-833F-957DD3FB9167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0D083F-C4EC-44E9-AB41-F3FE6160EE4B}
+	EndGlobalSection
+EndGlobal
